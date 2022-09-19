@@ -14,3 +14,5 @@ st.subheader("PRINCIPALMENTE GESTÃO ")
 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("tUDO QUE VOCÊ ACABOU DE LER SÃO FATOS, O RESTO É ")
+
+st.write("Vai todo mundo pra... Padaria?")
