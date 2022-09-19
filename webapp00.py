@@ -10,7 +10,7 @@ st.title("Eletrotécnica é SUPERIOR ;)")
 st.header("TODOS OS OUTROS SÃO INFERIORES A NÓS ")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-  st.subheader("PRINCIPALMENTE GESTÃO")
+  st.subheader("PRINCIPALMENTE GESTÃO ")
 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("tUDO QUE VOCÊ ACABOU DE LER SÃO FATOS, O RESTO É ")
