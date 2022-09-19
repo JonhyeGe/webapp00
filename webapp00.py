@@ -16,3 +16,5 @@ st.subheader("PRINCIPALMENTE GESTÃO ")
 st.write("tUDO QUE VOCÊ ACABOU DE LER SÃO FATOS, O RESTO É ")
 
 st.write("Vai todo mundo pra... Padaria?")
+
+st.write("CASA CMG LOPES?")
