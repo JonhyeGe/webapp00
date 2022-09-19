@@ -18,3 +18,8 @@ st.write("tUDO QUE VOCÊ ACABOU DE LER SÃO FATOS, O RESTO É ")
 st.write("Vai todo mundo pra... Padaria?")
 
 st.write("CASA CMG LOPES?")
+
+from PIL import Image
+image = Image.open('download.jpg')
+
+st.image(image, caption='AI AI FOLOU')
